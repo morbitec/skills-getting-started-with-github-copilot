@@ -1,4 +1,5 @@
 fastapi
 uvicorn
 httpx
-watchfiles
+pytest
+watchfiles>=0.20.0
